@@ -2945,3 +2945,59 @@ Array
 
     [modelVersion] => gemini-2.0-flash
 )
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Chào bạn, mình là Hugi! Mình rất vui được làm quen và hỗ trợ bạn giải quyết các vấn đề trong cuộc sống. Bạn cứ thoải mái hỏi mình nhé!
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.12612994093644
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 53
+            [candidatesTokenCount] => 38
+            [totalTokenCount] => 91
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 53
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 38
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)

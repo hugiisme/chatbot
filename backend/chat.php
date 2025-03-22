@@ -9,7 +9,8 @@
     $dotenv->load();
 
     // Retrieve API key
-    $apiKey = $_ENV['GEMINI_API_KEY'];
+    // $apiKey = $_ENV['GEMINI_API_KEY'];
+    $apiKey = getenv('GEMINI_API_KEY') ?: 'default_api_key';
 
     // Initialize conversation history
     if (!isset($_SESSION['conversation_history'])) {
