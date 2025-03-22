@@ -3001,3 +3001,36 @@ Array
 
     [modelVersion] => gemini-2.0-flash
 )
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => API key not valid. Please pass a valid API key.
+            [status] => INVALID_ARGUMENT
+            [details] => Array
+                (
+                    [0] => Array
+                        (
+                            [@type] => type.googleapis.com/google.rpc.ErrorInfo
+                            [reason] => API_KEY_INVALID
+                            [domain] => googleapis.com
+                            [metadata] => Array
+                                (
+                                    [service] => generativelanguage.googleapis.com
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [@type] => type.googleapis.com/google.rpc.LocalizedMessage
+                            [locale] => en-US
+                            [message] => API key not valid. Please pass a valid API key.
+                        )
+
+                )
+
+        )
+
+)

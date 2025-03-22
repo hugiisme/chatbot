@@ -2,15 +2,22 @@
     session_start();
     require_once __DIR__ . '/../vendor/autoload.php';
 
-    use Dotenv\Dotenv;
+    // use Dotenv\Dotenv;
 
     // Load environment variables
-    $dotenv = Dotenv::createImmutable(__DIR__ . '/../'); // thêm "/../" để escape ra ngoài vì .env nằm ngoài backend
-    $dotenv->load();
+    // $dotenv = Dotenv::createImmutable(__DIR__ . '/../'); // thêm "/../" để escape ra ngoài vì .env nằm ngoài backend
+    // $dotenv->load();
 
     // Retrieve API key
     // $apiKey = $_ENV['GEMINI_API_KEY'];
-    $apiKey = getenv('GEMINI_API_KEY') ?: 'default_api_key';
+    
+    // Retrieve API key from environment variables
+    $apiKey = getenv('GEMINI_API_KEY');
+
+    if (!$apiKey) {
+        echo json_encode(['error' => 'GEMINI_API_KEY not found in environment variables']);
+        exit;
+    }
 
     // Initialize conversation history
     if (!isset($_SESSION['conversation_history'])) {
