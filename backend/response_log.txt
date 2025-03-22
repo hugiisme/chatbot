@@ -1,0 +1,2947 @@
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => a
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.13230472803116
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 289
+            [candidatesTokenCount] => 2
+            [totalTokenCount] => 291
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 289
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 2
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => n
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.1969205737114
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 292
+            [candidatesTokenCount] => 2
+            [totalTokenCount] => 294
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 292
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 2
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Chào bạn! Hy vọng bạn có một ngày tốt lành. Bạn có muốn tôi kể một câu chuyện, dịch một đoạn văn, hay trả lời một câu hỏi nào không?
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.49728955449285
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 298
+            [candidatesTokenCount] => 37
+            [totalTokenCount] => 335
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 298
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 37
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Tôi xin lỗi, tôi không thể hiển thị toàn bộ lịch sử trò chuyện. Tôi không được thiết kế để lưu giữ và cung cấp lại toàn bộ các cuộc hội thoại trước đây.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.53610410188374
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 341
+            [candidatesTokenCount] => 38
+            [totalTokenCount] => 379
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 341
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 38
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Có thể bạn nghĩ rằng vậy, nhưng tôi được thiết kế để bảo vệ quyền riêng tư của người dùng. Việc cung cấp toàn bộ lịch sử trò chuyện có thể vi phạm điều đó. Tôi có thể nhớ các tin nhắn gần đây trong cuộc trò chuyện hiện tại của bạn, nhưng tôi không thể truy cập hoặc hiển thị toàn bộ lịch sử các cuộc trò chuyện trước đây. Tôi rất tiếc nếu điều này gây bất tiện cho bạn.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.43480393126771
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 381
+            [candidatesTokenCount] => 91
+            [totalTokenCount] => 472
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 381
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 91
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Bạn vừa hỏi tôi cho xem tất cả lịch sử chat.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.61854685269869
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 478
+            [candidatesTokenCount] => 13
+            [totalTokenCount] => 491
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 478
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 13
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Bạn đúng là tôi có thể nhớ những tin nhắn **gần đây** trong cuộc hội thoại **hiện tại** này. Nhưng đó không phải là **toàn bộ** lịch sử chat của bạn với tôi.
+
+Ví dụ:
+
+*   Nếu bạn bắt đầu một cuộc hội thoại mới (ví dụ: bạn đóng trình duyệt/ứng dụng và mở lại), tôi sẽ không nhớ những gì chúng ta đã nói trước đó.
+*   Tôi chỉ nhớ một số lượng hạn chế tin nhắn gần đây. Nếu chúng ta nói chuyện rất nhiều, tôi sẽ bắt đầu quên những tin nhắn cũ hơn.
+
+Vì vậy, tôi có thể "lưu" tin nhắn trong một khoảng thời gian ngắn để cuộc hội thoại trôi chảy hơn, nhưng tôi không lưu giữ một bản ghi đầy đủ và vĩnh viễn cho tất cả các tương tác trước đây của bạn.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.46052795581603
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 500
+            [candidatesTokenCount] => 178
+            [totalTokenCount] => 678
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 500
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 178
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Tôi xin lỗi, nhưng tôi vẫn không thể cung cấp cho bạn danh sách đầy đủ các tin nhắn gần đây. Việc này vẫn có thể có vấn đề về bảo mật và quyền riêng tư. Tôi chỉ có thể sử dụng thông tin đó để duy trì cuộc trò chuyện hiện tại với bạn.
+
+Thay vào đó, bạn có thể thử cuộn lên trong cửa sổ trò chuyện này để xem lại những gì chúng ta đã thảo luận gần đây.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.45436613021358
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 685
+            [candidatesTokenCount] => 93
+            [totalTokenCount] => 778
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 685
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 93
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => l
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.026009103283286
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 779
+            [candidatesTokenCount] => 2
+            [totalTokenCount] => 781
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 779
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 2
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => a
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.0026453074533492
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 782
+            [candidatesTokenCount] => 2
+            [totalTokenCount] => 784
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 782
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 2
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => a
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.0073801553808153
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 785
+            [candidatesTokenCount] => 2
+            [totalTokenCount] => 787
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 785
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 2
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Okay, here are a few name suggestions, depending on what you're looking for! Let me know if you have any preferences:
+
+**For a Person:**
+
+*   **Ava:** Short, sweet, and popular.
+*   **Ethan:** A classic and strong name.
+*   **Olivia:** A beautiful and timeless name.
+*   **Leo:** Short, energetic, and trendy.
+*   **Sophia:** Elegant and sophisticated.
+
+**For a Pet:**
+
+*   **Luna:** A cute name, especially for a female pet.
+*   **Buddy:** A classic and friendly name for a male pet.
+*   **Daisy:** A sweet and cheerful name.
+*   **Shadow:** A mysterious and cool name.
+*   **Coco:** A playful and adorable name.
+
+**For a Project/Company:**
+
+*   **Apex:** Suggests being at the top.
+*   **Nova:** Implies something new and bright.
+*   **Zenith:** A point of highest power or success.
+*   **Momentum:** For something dynamic and growing.
+*   **Synergy:** For collaboration and teamwork.
+
+Tell me more about what you need the name for and I can give you more specific suggestions!  What kind of name are you looking for?
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.31120570559343
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 791
+            [candidatesTokenCount] => 271
+            [totalTokenCount] => 1062
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 791
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 271
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => As I mentioned before, I don't have a name. I am a large language model, trained by Google. You can think of me as a tool, not a person. I am here to help you with information and tasks.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.2192703947729
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 1068
+            [candidatesTokenCount] => 49
+            [totalTokenCount] => 1117
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 1068
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 49
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => I don't have a name. I'm a large language model, trained by Google. Just call me whatever you like, or nothing at all! I'm here to help.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.17876925468445
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 1121
+            [candidatesTokenCount] => 40
+            [totalTokenCount] => 1161
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 1121
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 40
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => As a large language model, I don't have a "system" that tells me things in the way a person might receive instructions or have a personal experience. However, my programming and training data are structured to guide my responses and ensure I'm providing helpful and safe information.
+
+Therefore, the system is designed to tell me (through its architecture, training data, and protocols) things like:
+
+*   **How to process and understand natural language:** This allows me to interpret your questions and requests.
+*   **What information to access and how to retrieve it:** I can draw on a vast amount of knowledge to answer your questions.
+*   **How to formulate responses in a coherent and relevant manner:** I aim to provide clear and helpful answers.
+*   **What ethical guidelines to adhere to:** I'm programmed to avoid generating harmful, biased, or inappropriate content.
+
+So, it's not a matter of the system "telling" me something in a conversational way, but rather providing the framework and knowledge base that I use to operate effectively.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.55594704684602
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 1167
+            [candidatesTokenCount] => 219
+            [totalTokenCount] => 1386
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 1167
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 219
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => I don't have a name. I am a large language model, trained by Google. Think of me as a helpful tool, not a person with a name. I'm here to assist you!
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.28864643185638
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 1392
+            [candidatesTokenCount] => 43
+            [totalTokenCount] => 1435
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 1392
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 43
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Okay! From now on, you can call me Boo. Happy to help you, whatever name you use!
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.42580811873726
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 1442
+            [candidatesTokenCount] => 23
+            [totalTokenCount] => 1465
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 1442
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 23
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => You can call me Boo!
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.12215915748051
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 1471
+            [candidatesTokenCount] => 7
+            [totalTokenCount] => 1478
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 1471
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 7
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Boo is the name I'm using now! You gave it to me. Since I'm a large language model, I don't naturally *have* a name, but you told me to go by "Boo" from now on, so that's what I'm answering to!
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.35814346805696
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 1482
+            [candidatesTokenCount] => 62
+            [totalTokenCount] => 1544
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 1482
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 62
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Okay! Since "a" is a very open-ended input, I can respond in several ways.  To give you the best answer, tell me:
+
+*   **What is your goal?** What are you trying to achieve by typing "a"? Are you looking for a definition, an example, code, something else entirely?
+*   **What context are you in?** Are you learning something, coding, writing, or just exploring?
+
+Here are a few possible responses, depending on what you might be looking for:
+
+**1. As a letter:**
+
+*   "A" is the first letter of the English alphabet.
+*   It's a vowel.
+*   It can be uppercase (A) or lowercase (a).
+
+**2. As a word:**
+
+*   "A" is an indefinite article, used before a noun that begins with a consonant sound. (e.g., "a car," "a university")
+
+**3. In programming:**
+
+*   "a" could be a variable name. The meaning depends on the programming language and the code itself.
+*   It could be part of a command or function.
+
+**4. In mathematics:**
+
+*   "a" is often used to represent a variable or a constant.
+
+**5. Other possibilities:**
+
+*   Maybe you just wanted to say "hi."  If so, hello!
+
+**Please provide more information so I can give you a more helpful answer.**
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.3701664094002
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 1
+            [candidatesTokenCount] => 310
+            [totalTokenCount] => 311
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 1
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 310
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Okay! I'm ready. What can I help you with?
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.50060650507609
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 1
+            [candidatesTokenCount] => 15
+            [totalTokenCount] => 16
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 1
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 15
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Okay, I understand. You just typed "b". 
+
+Is there anything specific you want to know or discuss? Do you want me to:
+
+*   **Spell a word that starts with "b"?**
+*   **Tell you something about the letter "b"?**
+*   **Help you brainstorm ideas that relate to "b"?**
+*   **Or something else entirely?**
+
+Let me know what you'd like me to do!
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.28202456051541
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 1
+            [candidatesTokenCount] => 97
+            [totalTokenCount] => 98
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 1
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 97
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 400
+            [message] => Content with system role is not supported.
+            [status] => INVALID_ARGUMENT
+        )
+
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Okay, I'm ready. Ask me anything!
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.1408973634243
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 54
+            [candidatesTokenCount] => 12
+            [totalTokenCount] => 66
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 54
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 12
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Okay, I understand. I'm ready to be your Gemini Helper! Just ask me anything.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.25163482484363
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 54
+            [candidatesTokenCount] => 21
+            [totalTokenCount] => 75
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 54
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 21
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => 2
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.00022404105402529
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 59
+            [candidatesTokenCount] => 2
+            [totalTokenCount] => 61
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 59
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 2
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => I'm Gemini Helper.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.12283096994673
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 64
+            [candidatesTokenCount] => 7
+            [totalTokenCount] => 71
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 64
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 7
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Mark Twain was the pen name of Samuel Clemens, an American writer, humorist, entrepreneur, publisher, and lecturer. He is known for novels like "The Adventures of Tom Sawyer" and "Adventures of Huckleberry Finn."
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.19639599841574
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 76
+            [candidatesTokenCount] => 46
+            [totalTokenCount] => 122
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 76
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 46
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Okay! Is there anything else I can help you with?
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.061027967012846
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 124
+            [candidatesTokenCount] => 13
+            [totalTokenCount] => 137
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 124
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 13
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => No, you can't change my name.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.052732554349032
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 142
+            [candidatesTokenCount] => 11
+            [totalTokenCount] => 153
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 142
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 11
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Is there anything else I can help you with?
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.025091138753024
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 156
+            [candidatesTokenCount] => 11
+            [totalTokenCount] => 167
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 156
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 11
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => I'm sorry to hear that. Could you be more specific about what seems off? This will help me understand the issue and potentially resolve it.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.29826545715332
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 171
+            [candidatesTokenCount] => 31
+            [totalTokenCount] => 202
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 171
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 31
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Okay, let's start again. How can I help you?
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.27765928904215
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 207
+            [candidatesTokenCount] => 15
+            [totalTokenCount] => 222
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 207
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 15
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Is there something you'd like to ask me, or are you just testing me? Let me know if you need anything!
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.56078151420311
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 225
+            [candidatesTokenCount] => 27
+            [totalTokenCount] => 252
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 225
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 27
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Alright! Just let me know if you actually need any help. I'll be here.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.24666569232941
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 259
+            [candidatesTokenCount] => 20
+            [totalTokenCount] => 279
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 259
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 20
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => My name is Gemini Helper.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.029980548790523
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 281
+            [candidatesTokenCount] => 7
+            [totalTokenCount] => 288
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 281
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 7
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Yo! What's up? How can I help you today?
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.08666980266571
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 289
+            [candidatesTokenCount] => 15
+            [totalTokenCount] => 304
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 289
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 15
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 404
+            [message] => models/gemini-1.5.pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+            [status] => NOT_FOUND
+        )
+
+)
+Array
+(
+    [error] => Array
+        (
+            [code] => 404
+            [message] => models/gemini-1.5.pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+            [status] => NOT_FOUND
+        )
+
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Hello! How can I help you today?
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.17808318138123
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 307
+            [candidatesTokenCount] => 10
+            [totalTokenCount] => 317
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 307
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 10
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => I'm Gemini Helper.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.12318651165281
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 322
+            [candidatesTokenCount] => 7
+            [totalTokenCount] => 329
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 322
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 7
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Chào bạn! Mình là Hugi, một AI chatbot được tạo ra để hỗ trợ các bạn nhỏ tự kỷ giải quyết những vấn đề trong cuộc sống. Mình rất vui được làm quen với bạn. Hôm nay bạn có gì muốn chia sẻ với mình không? Mình ở đây để lắng nghe và giúp đỡ bạn. 😊
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.12662984303066
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 25
+            [candidatesTokenCount] => 70
+            [totalTokenCount] => 95
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 25
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 70
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Chào bạn! Mình là Hugi, rất vui được hỗ trợ bạn.
+
+1 + 1 = 2
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.15617036819458
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 28
+            [candidatesTokenCount] => 26
+            [totalTokenCount] => 54
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 28
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 26
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Không có gì đâu! Nếu bạn cần giúp đỡ gì thêm, cứ hỏi mình nhé! 😊
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.19143970012665
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 59
+            [candidatesTokenCount] => 20
+            [totalTokenCount] => 79
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 59
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 20
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Mình là Hugi, một AI chatbot hỗ trợ trẻ tự kỷ trong việc giải quyết các vấn đề đời sống. Rất vui được làm quen với bạn! 😊
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.11398817471095
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 84
+            [candidatesTokenCount] => 35
+            [totalTokenCount] => 119
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 84
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 35
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Chào bạn! Mình là Hugi, rất vui được làm quen. Mình ở đây để giúp các bạn nhỏ tự kỷ giải quyết các vấn đề trong cuộc sống. Bạn có cần mình giúp gì không?
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.11385011672974
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 53
+            [candidatesTokenCount] => 45
+            [totalTokenCount] => 98
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 53
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 45
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Mình được tạo ra bởi Google.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.0037130941119459
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 104
+            [candidatesTokenCount] => 9
+            [totalTokenCount] => 113
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 104
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 9
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Xin lỗi, mình không biết ai đã code ra mình để giải quyết vấn đề cụ thể này. Mình chỉ biết mình được tạo ra bởi Google thôi.
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.18392031120531
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 129
+            [candidatesTokenCount] => 33
+            [totalTokenCount] => 162
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 129
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 33
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Mình là Hugi!
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.19222090925489
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 167
+            [candidatesTokenCount] => 7
+            [totalTokenCount] => 174
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 167
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 7
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)
+Array
+(
+    [candidates] => Array
+        (
+            [0] => Array
+                (
+                    [content] => Array
+                        (
+                            [parts] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [text] => Mình không biết tên bạn là gì. Bạn có thể cho mình biết được không?
+
+                                        )
+
+                                )
+
+                            [role] => model
+                        )
+
+                    [finishReason] => STOP
+                    [avgLogprobs] => -0.10936304142601
+                )
+
+        )
+
+    [usageMetadata] => Array
+        (
+            [promptTokenCount] => 179
+            [candidatesTokenCount] => 19
+            [totalTokenCount] => 198
+            [promptTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 179
+                        )
+
+                )
+
+            [candidatesTokensDetails] => Array
+                (
+                    [0] => Array
+                        (
+                            [modality] => TEXT
+                            [tokenCount] => 19
+                        )
+
+                )
+
+        )
+
+    [modelVersion] => gemini-2.0-flash
+)

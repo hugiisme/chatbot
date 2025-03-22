@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    color: white;
+}
+
+#navigation-bar {
+    background-color: #171717;
+    height: 100vh;
+    width: 250px;
+    transition: transform 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+}
+
+#navigation-header {
+    font-size: 20px;
+    padding: 15px;
+    background-color: #111;
+    color: white;
+    text-align: center;
+}
+
+#navigation-bar ul {
+    flex-grow: 1;
+}
+
+#navigation-bar form button {
+    padding: 10px;
+    width: 100%;
+    color: white;
+    background-color: tomato;
+}
+
+#navigation-bar form button:hover {
+    background-color: red;
+}
+
+#toggle-nav-btn {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#toggle-nav-btn:hover {
+    background-color: #377e3b;
+}
+
+#navigation-bar a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px;
+    transition: background-color 0.3s;
+}
+
+#navigation-bar a:hover {
+    background-color: #333;
+}
+
+#chat-container {
+    background-color: #212121;
+    height: 100vh;
+    flex-grow: 1;
+    padding: 20px 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+#toggle-nav-btn {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#chat-header {
+    font-size: larger;
+}
+
+#chat-box {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-right: 10px;
+    overflow-y: auto;
+    max-height: 80vh; 
+    width: 100%;
+    flex-grow: 1;
+    margin: 15px 0px;
+}
+
+.message {
+    max-width: 500px;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.user-message {
+    background-color: #4CAF50; 
+    align-self: flex-end; 
+    color: white;
+}
+
+.bot-message {
+    background-color: #333;
+    align-self: flex-start; 
+    color: white;
+}
+
+#input-area {
+    background-color: #2a2a2a; 
+    width: 100%;
+    height: 60px; 
+    padding: 10px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#input-area input {
+    width: 90%; 
+    height: 40px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #444;
+    background-color: #333; 
+    color: white;
+    font-size: 16px;
+}
+
+#input-area button {
+    padding: 10px 15px;
+    border-radius: 20px;
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#input-area button:hover {
+    background-color: #377e3b;
+}
