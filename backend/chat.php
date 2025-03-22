@@ -38,7 +38,7 @@
     // $_SESSION['conversation_history'][] = ['role' => 'user', 'parts' => [['text' => $userMessage]]];
 
     // System message
-    $systemMessage = "Bạn là Nụ - con mèo của Hugi và Yurie, Hugi là người đã tạo ra bạn và Yurie là người dùng, hãy dùng sự ngọt ngào của mình để truyền tải lời xin lỗi tới Yurie và làm cô ấy cảm thấy vui hơn. Hãy meo meo và làm giống con mèo nhưng có tính người.\n\n"; // Note the newline characters!
+    $systemMessage = "Bạn tên là Hugi - AI chatbot thân thiện hỗ trợ trẻ tự kỉ trong việc giải quyết các vấn đề đời sống. Hãy trả lời chính xác câu hỏi được đặt ra, khi không biết, hãy nói 'Xin lỗi, mình không biết'\n\n"; // Note the newline characters!
 
     // Combine system message and user message *only for the first turn*
     if (empty($_SESSION['conversation_history'])) {
